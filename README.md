@@ -13,7 +13,7 @@ Sport-Alti is an Android application that can detect the highest altitude around
  Need Android 4.4 minimum
 
 
-## Usage:
+# Usage:
 
 - Geolocate your position
 - Showing the highest altitude around you
